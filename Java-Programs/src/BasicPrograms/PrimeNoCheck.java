@@ -20,6 +20,7 @@ public class PrimeNoCheck {
         }
 
         if (!flag)
+
             System.out.println(n + " is a prime number.");
         else
             System.out.println(n + " is not a prime number.");
