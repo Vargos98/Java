@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c25a4c1a-e919-49b7-83d9-c841560021cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/AlphCaseChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/CountOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/LargestNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/trial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/ReverseNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
