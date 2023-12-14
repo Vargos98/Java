@@ -8,7 +8,7 @@ public class PrimeChecker {
         System.out.print("please enter the number : ");
         int n  = sc.nextInt();
         int c = 2;
-        while (c<n)
+        while (c<=n*n)
         {
             if(n%c == 0){
                 System.out.println("Not prime");
