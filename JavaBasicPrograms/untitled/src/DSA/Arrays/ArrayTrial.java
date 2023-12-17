@@ -1,17 +1,28 @@
 package DSA.Arrays;
 
+import java.util.Scanner;
+
 public class ArrayTrial {
     public static void main(String[] args) {
 
         // create an array
-        int[] age = {12, 4, 5, 2, 5};
+        Scanner sc =  new Scanner(System.in);
+        System.out.print("please enter the size of the array : ");
+        int n = sc.nextInt();
+        int[] age = new int[n];
 
-        // access each array elements
-        System.out.println("Accessing Elements of Array:");
-        System.out.println("First Element: " + age[0]);
-        System.out.println("Second Element: " + age[1]);
-        System.out.println("Third Element: " + age[2]);
-        System.out.println("Fourth Element: " + age[3]);
-        System.out.println("Fifth Element: " + age[4]);
+        for(int i =0;i< n;i++){
+            age[i] = sc.nextInt();
+        }
+
+        System.out.println("the entered elements are : ");
+//        for(int i =0;i < n;i++){
+//            System.out.print(age[i]+" ");
+//        }
+
+        /// for-each loop
+        for(int i : age){
+            System.out.print(i+" ");
+        }
     }
 }
