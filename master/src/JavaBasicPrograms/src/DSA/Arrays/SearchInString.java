@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package JavaBasicPrograms.src.DSA.Arrays;
 public class SearchInString {
     public static void main(String[] args) {
         String name = "Uuuuuuumeeeeshhhhhhhh samir tiwadi";
