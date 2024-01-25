@@ -1,4 +1,4 @@
-package JavaBasicPrograms.src.DSA.Arrays;
+package JavaBasicPrograms.src.DSA.Arrays.OneDArr;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package JavaBasicPrograms.src.DSA.Arrays;
+package JavaBasicPrograms.src.DSA.Arrays.OneDArr;
 public class SearchInString {
     public static void main(String[] args) {
         String name = "Uuuuuuumeeeeshhhhhhhh samir tiwadi";
