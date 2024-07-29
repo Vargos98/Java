@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="" />
+    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +19,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2d4NmC87P5d2Vi1YAFdT2RqJx9G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,14 +32,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgeChecker.executor": "Run",
     "Application.ArrayTrial.executor": "Run",
     "Application.CountOccur.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
     "Application.patternFive.executor": "Run",
+    "Application.patternFour.executor": "Run",
+    "Application.patternNumThree.executor": "Run",
+    "Application.patternOne.executor": "Run",
+    "Application.patternThree.executor": "Run",
+    "Application.patternTwo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projects/Java/Java-programs/src/DSA",
+    "last_opened_file_path": "D:/Projects/Java",
     "onboarding.tips.debug.path": "D:/Projects/Java/Java-programs/src/Main.java"
   }
 }]]></component>
@@ -43,13 +56,6 @@
       <recent name="D:\Projects\Java\Java-programs\src\DSA" />
       <recent name="D:\Projects\Java\Java-programs\src\BasicPrograms" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
