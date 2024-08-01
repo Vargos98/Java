@@ -35,6 +35,7 @@
     "Application.AgeChecker.executor": "Run",
     "Application.ArrayTrial.executor": "Run",
     "Application.CountOccur.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
     "Application.patternFive.executor": "Run",
     "Application.patternFour.executor": "Run",
