@@ -37,6 +37,7 @@
     "Application.CountOccur.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
+    "Application.patterOne.executor": "Run",
     "Application.patternFive.executor": "Run",
     "Application.patternFour.executor": "Run",
     "Application.patternNumThree.executor": "Run",
@@ -49,7 +50,8 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Projects/Java",
-    "onboarding.tips.debug.path": "D:/Projects/Java/Java-programs/src/Main.java"
+    "onboarding.tips.debug.path": "D:/Projects/Java/Java-programs/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
