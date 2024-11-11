@@ -15,3 +15,10 @@ public class patternThree {
         }
     }
 }
+
+
+//x  x  x  x  x
+//x           x
+//x           x
+//x           x
+//x  x  x  x  x
