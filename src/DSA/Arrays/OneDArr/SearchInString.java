@@ -10,7 +10,7 @@ public class SearchInString {
     }
 
     static boolean search(String str, char target) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return false;
         } else {
             for(int i = 0; i < str.length(); ++i) {
