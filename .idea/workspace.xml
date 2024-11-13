@@ -41,6 +41,7 @@
     "Application.InputOutput.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.SearchInRange.executor": "Run",
+    "Application.TwoDArray.executor": "Run",
     "Application.patterOne.executor": "Run",
     "Application.patternFive.executor": "Run",
     "Application.patternFour.executor": "Run",
