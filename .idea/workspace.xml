@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/CheckSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/LeftRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     "Application.FibonacciNumbers.executor": "Run",
     "Application.GreatestInArray.executor": "Run",
     "Application.InputOutput.executor": "Run",
+    "Application.LeftRotation.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.SearchInRange.executor": "Run",
     "Application.SecondLargest.executor": "Run",
