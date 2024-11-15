@@ -14,8 +14,6 @@ public class SumAndMean {
 
         for(int i = 0;i<arr.length;i++){
             arr[i] = sc.nextInt();
-        }
-        for(int i =0;i<arr.length;i++){
             count +=arr[i];
             mean = (float) count/n;
         }
