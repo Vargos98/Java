@@ -8,6 +8,7 @@ public class KthRotationArray {
 
         int n = arr.length;
         int k = 3;
+        k = k%n;  // this method is applied to prevent relooping.
         while(k-- > 0){
             int temp = arr[0];
 
