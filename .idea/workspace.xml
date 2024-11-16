@@ -42,7 +42,7 @@
     "Application.GreatestInArray.executor": "Run",
     "Application.InputOutput.executor": "Run",
     "Application.KthRotationArray.executor": "Run",
-    "Application.LeftRotation.executor": "Run",
+    "Application.LeftRotation.executor": "Debug",
     "Application.LinearSearch.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SearchInRange.executor": "Run",
