@@ -4,25 +4,23 @@ import java.util.Scanner;
 
 public class SumAndMean {
     public static void main(String[] args) {
-        Scanner sc  = new Scanner(System.in);
-        System.out.print("Enter the size of the array : ");
+        //Write your code here
+        Scanner sc = new Scanner(System.in);
+
         int n = sc.nextInt();
         int arr[] = new int[n];
-        int count = 0;
-        float mean = 0;
-        System.out.println("Enter numbers!");
-
-        for(int i = 0;i<arr.length;i++){
+        int sum = 0, mean=0;
+        for(int  i =0;i<n;i++)
+        {
             arr[i] = sc.nextInt();
-            count +=arr[i];
-            mean = (float) count/n;
+            sum +=arr[i];
+
+            mean = sum/n;
+
         }
-        System.out.println("Sum :" + count);
-        System.out.println("Average : "+mean);
 
-
-
-
+        System.out.println("Sum:"+ sum);
+        System.out.println("Mean:"+ mean);
 
     }
 }

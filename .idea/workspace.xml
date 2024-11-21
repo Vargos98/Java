@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="" />
+    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/GreatestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/GreatestInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/SumAndMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/SumAndMean.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,42 +35,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgeChecker.executor": "Run",
-    "Application.ArrayTrial.executor": "Run",
-    "Application.CheckSorted.executor": "Run",
-    "Application.CountOccur.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FibonacciNumbers.executor": "Run",
-    "Application.GreatestInArray.executor": "Run",
-    "Application.InputOutput.executor": "Run",
-    "Application.KthRotationArray.executor": "Debug",
-    "Application.LeftRotation.executor": "Debug",
-    "Application.LinearSearch.executor": "Run",
-    "Application.ReverseArrUsingTwoPointers.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SearchInRange.executor": "Run",
-    "Application.SecondLargest.executor": "Run",
-    "Application.SumAndMean.executor": "Run",
-    "Application.TwoDArray.executor": "Run",
-    "Application.patterOne.executor": "Run",
-    "Application.patternFive.executor": "Run",
-    "Application.patternFour.executor": "Run",
-    "Application.patternNumThree.executor": "Run",
-    "Application.patternOne.executor": "Run",
-    "Application.patternThree.executor": "Run",
-    "Application.patternTwo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projects/Java",
-    "onboarding.tips.debug.path": "D:/Projects/Java/Java-programs/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTrial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOccur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputOutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthRotationArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LeftRotation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArrUsingTwoPointers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumAndMean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternFive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternFour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternNumThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternTwo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Projects/Java/Java-programs/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Java\Java-programs\src\DSA" />
