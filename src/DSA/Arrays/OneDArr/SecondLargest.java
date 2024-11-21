@@ -25,8 +25,7 @@ public class SecondLargest {
             }
 
         }
-//        Arrays.sort(arr);
-//        second = arr[n-2];
+
 
         System.out.println("Second largest element : "+second);
     }
