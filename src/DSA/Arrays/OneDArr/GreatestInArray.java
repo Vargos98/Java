@@ -4,29 +4,24 @@ import java.util.Scanner;
 
 public class GreatestInArray {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the size of the array: ");
-        int n = sc.nextInt();
-
-        if (n <= 0) {
-            System.out.println("Array size must be greater than 0.");
-            return;
-        }
-
+        int n = sc.nextInt(); // Read the size of the array
         int arr[] = new int[n];
-        System.out.println("Enter array elements: ");
 
+        int max = Integer.MIN_VALUE; // Initialize max to the smallest possible value
+        int maxIndex = -1; // Variable to track the index of the greatest element
 
-        int big = 0; // Start with the first element as the greatest
-
-        for (int i = 0; i < arr.length; i++) { // Start from index 1
-            arr[i] = sc.nextInt();
-            if (arr[i] > arr[big]) {
-                big = i;
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt(); // Read array elements
+            if (arr[i] > max) { // Update max if the current element is greater
+                max = arr[i];
+                maxIndex = i; // Update the index of the max element
             }
         }
 
-        System.out.println("Greatest = " + arr[big] + " Found at index = " + big);
-        sc.close(); // Close scanner to avoid resource leaks
+        System.out.println("Max element = " + max + " found at index " + maxIndex);
+
+
     }
 }
