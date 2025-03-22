@@ -36,6 +36,7 @@
     "Application.AgeChecker.executor": "Run",
     "Application.ArrayTrial.executor": "Run",
     "Application.CheckSorted.executor": "Run",
+    "Application.CommissionPercentageCalc.executor": "Run",
     "Application.CountOccur.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FactorialOfN.executor": "Run",
