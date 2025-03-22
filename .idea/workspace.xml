@@ -53,6 +53,7 @@
     "Application.ReverseArrUsingTwoPointers.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseNum.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.SearchInRange.executor": "Run",
     "Application.SecondLargest.executor": "Run",
     "Application.SumAndMean.executor": "Run",
