@@ -1,21 +1,20 @@
-package BasicPrograms;
+package EndGame.Basics.ConditionalsLoops;
+
 import java.util.Scanner;
-public class FibonacciNumbers {
+
+public class FibonnaciSeries {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        sc.close(); // Close scanner to prevent resource leaks
-
+        sc.close();
         int a = 0, b = 1;
 
-        System.out.print(a + " " + b + " "); // Print first two numbers
-
-        for (int i = 2; i < n; i++) { // Start loop from index 2
+        System.out.print(a + " " + b + " ");
+        for (int i = 2; i < n; i++) {
             int next = a + b;
             System.out.print(next + " ");
             a = b;
             b = next;
         }
-
     }
 }

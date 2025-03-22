@@ -9,18 +9,17 @@ public class GreatestInArray {
         int n = sc.nextInt(); // Read the size of the array
         int arr[] = new int[n];
 
-        int max = Integer.MIN_VALUE; // Initialize max to the smallest possible value
-        int maxIndex = -1; // Variable to track the index of the greatest element
+        int max=0; // Initialize max to the smallest possible value
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             arr[i] = sc.nextInt(); // Read array elements
-            if (arr[i] > max) { // Update max if the current element is greater
-                max = arr[i];
-                maxIndex = i; // Update the index of the max element
+            if (arr[i] > arr[max]) { // Update max if the current element is greater
+                max = i;
+                 // Update the index of the max element
             }
         }
 
-        System.out.println("Max element = " + max + " found at index " + maxIndex);
+        System.out.println("Max element = " + arr[max] + " found at index " + max);
 
 
     }
