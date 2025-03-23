@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="" />
+    <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EndGame/Basics/AmstrongNum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AgeChecker.executor": "Run",
+    "Application.AmstrongNum.executor": "Run",
     "Application.ArrayTrial.executor": "Run",
     "Application.CheckSorted.executor": "Run",
     "Application.CommissionPercentageCalc.executor": "Run",
