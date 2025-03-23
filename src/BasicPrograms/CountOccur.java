@@ -5,18 +5,28 @@ import java.util.Scanner;
 public class CountOccur {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("please enter the numbers : ");
-        int n = sc.nextInt();
-        int count = 0;
-        System.out.print("Enter the number which you want to get the count for : ");
 
-        for(int d = sc.nextInt(); n > 0; n /= 10) {
-            int rem = n % 10;
-            if (rem == d) {
-                ++count;
+        // Input the number
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+
+        // Input the digit to count
+        System.out.print("Enter the digit to count: ");
+        int d = sc.nextInt();
+        sc.close();
+
+        int count = 0;
+        int temp = n;
+
+        // Count occurrences of digit `d` in `n`
+        while (temp > 0) {
+            if (temp % 10 == d) {
+                count++;
             }
+            temp /= 10;
         }
 
-        System.out.println("the provided count is : " + count);
+        // Display result
+        System.out.println("The digit " + d + " appears " + count + " times in " + n);
     }
 }
