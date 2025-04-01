@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EndGame/Arrays/CountOccur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EndGame/Arrays/CheckSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/CheckSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Arrays/OneDArr/CheckSortedArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     "Application.AmstrongNum.executor": "Run",
     "Application.ArrayTrial.executor": "Run",
     "Application.CheckSorted.executor": "Run",
+    "Application.CheckSortedArr.executor": "Run",
     "Application.CommissionPercentageCalc.executor": "Run",
     "Application.CountOccur.executor": "Run",
     "Application.CountOccurences.executor": "Run",

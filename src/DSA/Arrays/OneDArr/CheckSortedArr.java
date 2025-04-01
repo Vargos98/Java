@@ -2,8 +2,7 @@ package DSA.Arrays.OneDArr;
 
 import java.util.Scanner;
 public class CheckSortedArr {
-    public CheckSortedArr() {
-    }
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
