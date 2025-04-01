@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="594b55de-2b06-454b-897a-00549d17ebbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EndGame/Arrays/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndGame/Arrays/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EndGame/Arrays/Starter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
     &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
     &quot;Application.SearchInRange.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Starter.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumAndMean.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfFirstNnums.executor&quot;: &quot;Run&quot;,
     &quot;Application.TakeAndSumTillZero.executor&quot;: &quot;Run&quot;,
